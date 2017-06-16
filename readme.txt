@@ -12,6 +12,13 @@ Disable email requirement for user registering/editing.
 
 Disable email requirement for user registering/editing.
 
+This plugin hooks the following WordPress functions :
+
+* wp_user_insert()
+* wp_user_update()
+* Admin site email validation
+* Admin site profile editor
+
 == Installation ==
 
 1. Upload `email-not-required` folder to the `/wp-content/plugins/` directory
