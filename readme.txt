@@ -4,7 +4,6 @@ Donate link: https://ircf.fr
 Tags: email, not required, mail, e-mail, required, ircf
 Requires at least: 3.1
 Tested up to: 4.9.9
-Stable tag: 4.9.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
