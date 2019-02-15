@@ -3,7 +3,7 @@
 Plugin Name: Email not required
 Plugin URI: https://ircf.fr
 Description: Disable email requirement for users
-Version: 0.3
+Version: 0.4
 Author: IRCF
 Author URI: https://ircf.fr/
 License: GPL2
